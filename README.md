@@ -1,0 +1,2 @@
+# awscp
+AWS Cloud Practitioner 
